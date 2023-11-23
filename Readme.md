@@ -1,5 +1,9 @@
 ### 01-Basic Setup
 
+- To run the tests
+    -`yarn test`
+--
+
 - Install a brand new project
     -` yarn init -y`
     -` yarn add vitest -D`
